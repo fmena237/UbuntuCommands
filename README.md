@@ -18,7 +18,7 @@
 |**`nano`** | Abre un archivo en terminal
 |**`cat`** | Imprime un archivo (concatena)
 |**`ls`** | Imprime carpetas
-|**`su -`** | Da permisos de superusuario
+|**`su -`** | Cambia de usuario
 |**`mkdir`** | Crea un directorio
 |**`cp`** | Copia archivos
 |**`mv`** | Mueve archivos
